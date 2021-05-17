@@ -23,8 +23,8 @@ beta=0.012 is used.
   </tr>
   
   <tr>
-    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure1/Figure1_left/image.png" width="100"></td>
-    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure1/Figure1_right/image.png" width="100"></td>
+    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure1/Figure1_left/image.png" width="300"></td>
+    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure1/Figure1_right/image.png" width="300"></td>
   </tr>
 </table>
 
