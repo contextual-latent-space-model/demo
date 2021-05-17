@@ -101,3 +101,67 @@ Our CLSM interpolation examples are shown.
     <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/1bar_target/ex2/image.png"></td>
   </tr>
 </table>
+
+### 2 bars target
+<table>  
+  <tr>
+    <td style="text-align: center; vertical-align: middle;">
+      <audio controls>
+      <source src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/2bars_target/ex1/sound.mp3">
+      </audio>
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      <audio controls>
+      <source src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/2bars_target/ex2/sound.mp3">
+      </audio>
+    </td>
+  </tr>
+  
+  <tr>
+    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/2bars_target/ex1/image.png"></td>
+    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/2bars_target/ex2/image.png"></td>
+  </tr>
+</table>
+
+### 3 bars target
+<table>  
+  <tr>
+    <td style="text-align: center; vertical-align: middle;">
+      <audio controls>
+      <source src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/3bars_target/ex1/sound.mp3">
+      </audio>
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      <audio controls>
+      <source src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/3bars_target/ex2/sound.mp3">
+      </audio>
+    </td>
+  </tr>
+  
+  <tr>
+    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/3bars_target/ex1/image.png"></td>
+    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/3bars_target/ex2/image.png"></td>
+  </tr>
+</table>
+
+### 4 bars target
+<table>  
+  <tr>
+    <td style="text-align: center; vertical-align: middle;">
+      <audio controls>
+      <source src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/4bars_target/ex1/sound.mp3">
+      </audio>
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      <audio controls>
+      <source src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/4bars_target/ex2/sound.mp3">
+      </audio>
+    </td>
+  </tr>
+  
+  <tr>
+    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/4bars_target/ex1/image.png"></td>
+    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/4bars_target/ex2/image.png"></td>
+  </tr>
+</table>
+
