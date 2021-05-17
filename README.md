@@ -23,7 +23,7 @@
     <td><img class="cropped1" src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure3a/CSLM/image.png"></td>
     <td><img class="cropped1" src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure3a/VAE/image.png"></td>
   </tr>
- </table>
+</table>
  
 ## 3~6 bars
 <table>
