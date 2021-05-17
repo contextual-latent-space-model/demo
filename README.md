@@ -94,7 +94,7 @@ and 8-divided interpolated points(sequences) are generated.
 # Additional Examples for our CLSM
 Additional examples for our CLSM are shown.
 Shaded regions are contexts.
-All samples are generated with beta=0.012.
+beta=0.012 is used.
 8-divided interpolated points(sequences) are generated.
 ### 1 bar target
 <table>  
