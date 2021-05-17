@@ -1,5 +1,5 @@
-# Figure1: Contextual Interpolation Examples
-Illustrative examples on the first page of the paper. 
+# Figure 1: Contextual Interpolation Examples
+Illustrative examples in Figure 1 on the first page of our paper. 
 Our CLSM interpolation examples are shown.
 Shaded regions are contexts.
 beta=0.012 is used.
@@ -23,8 +23,8 @@ beta=0.012 is used.
   </tr>
 </table>
 
-# Figure3a: Generation Comparison
-Comparison of our CLSM vs. baseline methods (VAE, ARNN, and ARNNT) or test dataset (Data).
+# Figure 3(a): Generation Comparison
+Comparison of our CLSM vs. baseline methods (VAE, ARNN, and ARNNT) or test dataset (Data), in Figure 3(a) in our paper. 
 Shaded regions are contexts.
 For CLSM and VAE, beta=0.012 and gamma=0.4 are used, respectively,
 and 8-divided interpolated points(sequences) are generated.
