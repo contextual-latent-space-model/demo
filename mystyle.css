@@ -1,4 +1,6 @@
 .cropped1 {
+    width: 200px; /* width of container */
+    height: 200px; /* height of container */
     padding: -200px 0px -200px 0px;
 }
 .cropped2 {
