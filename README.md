@@ -1,4 +1,6 @@
 <link rel="stylesheet" href="mystyle.css">
+
+
 # Figure3a: Generation Comparison
 <table>
   <tr>
