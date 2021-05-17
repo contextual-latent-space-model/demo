@@ -8,19 +8,19 @@
   <tr>
     <td style="text-align: center; vertical-align: middle;">
       <audio controls>
-      <source src="https://anonymousle.github.io/CLSM/test_midi_synth.mp3">
+      <source src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure3a/CSLM/sound.mp3">
       </audio>
     </td>
     <td style="text-align: center; vertical-align: middle;">
       <audio controls>
-      <source src="https://anonymousle.github.io/CLSM/test_midi_synth.mp3">
+      <source src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure3a/VAE/sound.mp3">
       </audio>
     </td>
   </tr>
   
   <tr>
-    <td><img class="recimg" src="https://anonymous9123.github.io/iccc-ndm/figures/rec/bongoin.png"></td>
-    <td><img class="recimg" src="https://anonymous9123.github.io/iccc-ndm/figures/rec/bongoin.png"></td>
+    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure3a/CSLM/image.png"></td>
+    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure3a/VAE/image.png"></td>
   </tr>
  </table>
  
