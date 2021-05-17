@@ -17,6 +17,11 @@
       </audio>
     </td>
   </tr>
+  
+  <tr>
+    <td><img class="recimg" src="https://anonymous9123.github.io/iccc-ndm/figures/rec/bongoin.png"></td>
+    <td><img class="recimg" src="https://anonymous9123.github.io/iccc-ndm/figures/rec/bongoin.png"></td>
+  </tr>
  </table>
  
 ## 3~6 bars
