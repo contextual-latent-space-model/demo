@@ -1,4 +1,3 @@
-# Table of Contents
 We provide music examples for Figures in our paper and additional examples.
 
 * TOC
