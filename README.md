@@ -1,5 +1,6 @@
-# Figure3a: Generation Comparison
 <link rel="stylesheet" href="mystyle.css">
+# Figure3a: Generation Comparison
+
 <table>
   <tr>
     <td style="text-align: center; vertical-align: middle;"><b>CLSM</b></td>
