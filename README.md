@@ -1,3 +1,26 @@
+# Figure1: Contextual Interpolation Examples
+Illustrative examples on the first page of the paper. 
+Our CLSM interpolation examples are shown.
+<table>  
+  <tr>
+    <td style="text-align: center; vertical-align: middle;">
+      <audio controls>
+      <source src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure1/Figure1_left/sound.mp3">
+      </audio>
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      <audio controls>
+      <source src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure1/Figure1_right/sound.mp3">
+      </audio>
+    </td>
+  </tr>
+  
+  <tr>
+    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure1/Figure1_left/image.png"></td>
+    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure1/Figure1_right/image.png"></td>
+  </tr>
+</table>
+
 # Figure3a: Generation Comparison
 <table>
   <tr>
