@@ -1,4 +1,4 @@
-We provide music examples for Figures in our paper and additional examples.
+We provide music examples for Figures in our paper and also provide additional examples.
 
 * TOC
 {:toc}
