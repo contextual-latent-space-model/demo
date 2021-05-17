@@ -1,3 +1,8 @@
+# Table of Contents
+We provide music examples for Figures in our paper and additional examples.
+
+{:toc}
+
 # Figure 1: Contextual Interpolation Examples
 Illustrative examples in Figure 1 on the first page of our paper. 
 Our CLSM interpolation examples are shown.
