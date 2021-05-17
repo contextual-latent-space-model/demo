@@ -23,8 +23,8 @@ beta=0.012 is used.
   </tr>
   
   <tr>
-    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure1/Figure1_left/image.png" width="300"></td>
-    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure1/Figure1_right/image.png" width="300"></td>
+    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure1/Figure1_left/image.png" width="400"></td>
+    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure1/Figure1_right/image.png" width="400"></td>
   </tr>
 </table>
 
@@ -53,8 +53,8 @@ and 8-divided interpolated points(sequences) are generated.
   </tr>
   
   <tr>
-    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure3a/CSLM/image_crop.png"></td>
-    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure3a/VAE/image_crop.png"></td>
+    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure3a/CSLM/image_crop.png" width="400"></td>
+    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure3a/VAE/image_crop.png" width="400"></td>
   </tr>
 </table>
  
@@ -84,9 +84,9 @@ and 8-divided interpolated points(sequences) are generated.
   </tr>
   
   <tr>
-    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure3a/ARNN/image_crop.png"></td>
-    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure3a/ARNNT/image_crop.png"></td>
-    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure3a/Data/image_crop.png"></td>
+    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure3a/ARNN/image_crop.png" width="400"></td>
+    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure3a/ARNNT/image_crop.png" width="400"></td>
+    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure3a/Data/image_crop.png" width="400"></td>
   </tr>
 </table>
 
@@ -112,8 +112,8 @@ All samples are generated with beta=0.012.
   </tr>
   
   <tr>
-    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/1bar_target/ex1/image.png"></td>
-    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/1bar_target/ex2/image.png"></td>
+    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/1bar_target/ex1/image.png" width="400"></td>
+    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/1bar_target/ex2/image.png" width="400"></td>
   </tr>
 </table>
 
@@ -133,8 +133,8 @@ All samples are generated with beta=0.012.
   </tr>
   
   <tr>
-    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/2bars_target/ex1/image.png"></td>
-    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/2bars_target/ex2/image.png"></td>
+    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/2bars_target/ex1/image.png" width="400"></td>
+    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/2bars_target/ex2/image.png" width="400"></td>
   </tr>
 </table>
 
@@ -154,8 +154,8 @@ All samples are generated with beta=0.012.
   </tr>
   
   <tr>
-    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/3bars_target/ex1/image.png"></td>
-    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/3bars_target/ex2/image.png"></td>
+    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/3bars_target/ex1/image.png" width="400"></td>
+    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/3bars_target/ex2/image.png" width="400"></td>
   </tr>
 </table>
 
@@ -175,8 +175,8 @@ All samples are generated with beta=0.012.
   </tr>
   
   <tr>
-    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/4bars_target/ex1/image.png"></td>
-    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/4bars_target/ex2/image.png"></td>
+    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/4bars_target/ex1/image.png" width="400"></td>
+    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/4bars_target/ex2/image.png" width="400"></td>
   </tr>
 </table>
 
