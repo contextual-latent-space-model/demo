@@ -78,3 +78,26 @@ Our CLSM interpolation examples are shown.
     <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure3a/Data/image_crop.png"></td>
   </tr>
 </table>
+
+
+# Additional Examples for CLSM
+### 1 bar target
+<table>  
+  <tr>
+    <td style="text-align: center; vertical-align: middle;">
+      <audio controls>
+      <source src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/1bar_target/ex1/sound.mp3">
+      </audio>
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      <audio controls>
+      <source src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/1bar_target/ex1/sound.mp3">
+      </audio>
+    </td>
+  </tr>
+  
+  <tr>
+    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/1bar_target/ex1/image.png"></td>
+    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Additional_Music_for_CLSM/1bar_target/ex1/image.png"></td>
+  </tr>
+</table>
