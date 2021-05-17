@@ -2,6 +2,7 @@
 Illustrative examples on the first page of the paper. 
 Our CLSM interpolation examples are shown.
 Shaded regions are contexts.
+beta=0.012 is used.
 <table>  
   <tr>
     <td style="text-align: center; vertical-align: middle;">
@@ -25,7 +26,7 @@ Shaded regions are contexts.
 # Figure3a: Generation Comparison
 Comparison of our CLSM vs. baseline methods (VAE, ARNN, and ARNNT) or test dataset (Data).
 Shaded regions are contexts.
-For CLSM and VAE, $`\beta=0.012`$ and $`\gamma=0.4`$ are used, respectively,
+For CLSM and VAE, beta=0.012 and gamma=0.4 are used, respectively,
 and 8-divided interpolated points(sequences) are generated.
 <table>
   <tr>
@@ -88,7 +89,7 @@ and 8-divided interpolated points(sequences) are generated.
 # Additional Examples for CLSM
 Additional examples for our CLSM are shown.
 Shaded regions are contexts.
-All samples are generated with $`\beta=0.012`$.
+All samples are generated with beta=0.012.
 8-divided interpolated points(sequences) are generated.
 ### 1 bar target
 <table>  
