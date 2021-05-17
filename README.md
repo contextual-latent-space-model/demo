@@ -1,6 +1,4 @@
-<link rel="stylesheet" href="mystyle.css">
 # Figure3a: Generation Comparison
-
 <table>
   <tr>
     <td style="text-align: center; vertical-align: middle;"><b>CLSM</b></td>
@@ -21,8 +19,8 @@
   </tr>
   
   <tr>
-    <td><img class="cropped1" src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure3a/CSLM/image.png"></td>
-    <td><img class="cropped1" src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure3a/VAE/image.png"></td>
+    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure3a/CSLM/image_crop.png"></td>
+    <td><img src="https://contextual-latent-space-model.github.io/demo/music_examples/Music_for_Figure3a/VAE/image_crop.png"></td>
   </tr>
 </table>
  
