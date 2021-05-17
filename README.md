@@ -1,12 +1,8 @@
-# Variation Results
-## 1~4 bars
+# Figure3a: Generation Comparison
 <table>
   <tr>
-    <td style="text-align: center; vertical-align: middle;"><b>original</b></td>
-    <td style="text-align: center; vertical-align: middle;"><b>generated</b></td>
-    <td style="text-align: center; vertical-align: middle;"><b>variation 1</b></td>
-    <td style="text-align: center; vertical-align: middle;"><b>variation 2</b></td>
-    <td style="text-align: center; vertical-align: middle;"><b>variation 3</b></td>
+    <td style="text-align: center; vertical-align: middle;"><b>CLSM</b></td>
+    <td style="text-align: center; vertical-align: middle;"><b>VAE</b></td>
   </tr>
   
   <tr>
@@ -17,22 +13,7 @@
     </td>
     <td style="text-align: center; vertical-align: middle;">
       <audio controls>
-      <source src="https://github.com/anonymousle/CLSM/blob/77817a2fec87a15a4502392492ed5a2482f6f0d0/test_midi_synth.mp3">
-      </audio>
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <audio controls>
-      <source src="https://github.com/anonymousle/CLSM/raw/77817a2fec87a15a4502392492ed5a2482f6f0d0/test_midi_synth.mp3">
-      </audio>
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <audio controls>
-      <source src="https://github.com/anonymousle/CLSM/raw/77817a2fec87a15a4502392492ed5a2482f6f0d0/test_midi_synth.mp3">
-      </audio>
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <audio controls>
-      <source src="https://github.com/anonymousle/CLSM/raw/77817a2fec87a15a4502392492ed5a2482f6f0d0/test_midi_synth.mp3">
+      <source src="https://anonymousle.github.io/CLSM/test_midi_synth.mp3">
       </audio>
     </td>
   </tr>
